@@ -11,3 +11,4 @@ semitechnologies/weaviate:1.19.0
 ubuntu/squid:latest
 langgenius/dify-sandbox:0.2.1
 nginx:latest
+kuingsmile/word-gpt-plus
